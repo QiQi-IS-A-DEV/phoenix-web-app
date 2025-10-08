@@ -18,6 +18,7 @@ export default function RootLayout({
           <Link href="/" className="hover:underline">Trang chủ</Link>
           <Link href="/about" className="hover:underline">Giới thiệu</Link>
           <Link href="/contact" className="hover:underline">Liên hệ</Link>
+          <Link href="/products" className="hover:underline">Sản phẩm</Link>
         </nav>
         {children}
       </body>
