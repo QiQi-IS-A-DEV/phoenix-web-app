@@ -20,7 +20,7 @@ Dự án gồm hai phần chính:
 ## Thành viên nhóm
 
 - **Lê Việt Hải Quân** - [Email](mailto:leviethaiquan2206@gmail.com) - [Github](https://github.com/QiQi-OU-IT/)
-- **Trần Vỹ Triều** - [Email](mailto:trieu8091@gmail.com) - [Github](https://github.com/YourGithubVY)  
+- **Trần Vỹ Triều** - [Email](mailto:trieu8091@gmail.com) - [Github](https://github.com/DiChiu8091)  
 
 ---
 
